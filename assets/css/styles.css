@@ -1078,12 +1078,12 @@ body.light-theme{
   }
 
   .skills__container{
-    grid-template-columns: repeat(2, 400px);
+    grid-template-columns: repeat(2, 475px);
     column-gap: 3rem;
   }
 
   .services__container{
-    grid-template-columns: repeat(3, 250px);
+    grid-template-columns: repeat(2, 250px);
     column-gap: 3rem;
   }
 
