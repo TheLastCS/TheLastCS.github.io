@@ -103,7 +103,7 @@ let opt = {
     margin:       1,
     filename:     'StewartResume.pdf',
     image:        { type: 'png', quality: 0.98 },
-    html2canvas:  { scale: 0.5 },
+    html2canvas:  { scale: 1.0 },
     jsPDF:        { format: 'a4', orientation: 'portrait' }
 };
 
