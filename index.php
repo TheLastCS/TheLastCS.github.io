@@ -143,7 +143,7 @@
                         <p class="profile__description">
                             I am currently a graduating Computer Science Student from the University of San Carlos.
                             Focused mainly on Software or Web Development and Graphic designs but I am open to Mobile Development projects as well.
-                            I have worked with basic HTML, CSS, and JS projects. I have been exposed to libraries and languages such as ReactJS, Python
+                            I have worked with basic HTML, CSS, and JS projects. I have been exposed to libraries and languages such as ReactJS and Python.
                             I'm also interested in traditional and digital graphics are .
                         </p>
                     </section>
